@@ -1,0 +1,6 @@
+name "symmetry-gelf"
+description "Gelf (Graylog) plugin for std.experimental.logger"
+authors "Ilya Yaroshenko" "Laeeth Isharc"
+copyright "Copyright © 2016, 2017, 2018, 2019 Laeeth Isharc,Kaleidic Associates and Symmetry Investments"
+license "proprietary"
+targetType "library"
